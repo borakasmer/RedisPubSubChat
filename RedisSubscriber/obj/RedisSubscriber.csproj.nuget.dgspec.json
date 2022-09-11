@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\RedisSubscriber\\RedisSubscriber.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\ElasticCore\\ElasticCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\ElasticCore\\ElasticCore.csproj",
+        "projectName": "ElasticCore",
+        "projectPath": "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\ElasticCore\\ElasticCore.csproj",
+        "packagesPath": "C:\\Users\\Bora Kasmer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\ElasticCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bora Kasmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.4, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\RedisCore\\RedisCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\RedisCore\\RedisCore.csproj",
+        "projectName": "RedisCore",
+        "projectPath": "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\RedisCore\\RedisCore.csproj",
+        "packagesPath": "C:\\Users\\Bora Kasmer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\RedisCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bora Kasmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.48, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\RedisSubscriber\\RedisSubscriber.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\RedisSubscriber\\RedisSubscriber.csproj",
+        "projectName": "RedisSubscriber",
+        "projectPath": "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\RedisSubscriber\\RedisSubscriber.csproj",
+        "packagesPath": "C:\\Users\\Bora Kasmer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\RedisSubscriber\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bora Kasmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\ElasticCore\\ElasticCore.csproj": {
+                "projectPath": "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\ElasticCore\\ElasticCore.csproj"
+              },
+              "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\RedisCore\\RedisCore.csproj": {
+                "projectPath": "C:\\Users\\Bora Kasmer\\source\\repos\\RedisPubSubChat\\RedisCore\\RedisCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
