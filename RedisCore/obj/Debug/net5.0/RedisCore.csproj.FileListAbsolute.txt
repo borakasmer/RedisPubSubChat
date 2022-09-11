@@ -1,0 +1,12 @@
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\RedisCore\bin\Debug\net5.0\RedisCore.deps.json
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\RedisCore\bin\Debug\net5.0\RedisCore.dll
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\RedisCore\bin\Debug\net5.0\RedisCore.pdb
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\RedisCore\obj\Debug\net5.0\RedisCore.csproj.AssemblyReference.cache
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\RedisCore\obj\Debug\net5.0\RedisCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\RedisCore\obj\Debug\net5.0\RedisCore.AssemblyInfoInputs.cache
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\RedisCore\obj\Debug\net5.0\RedisCore.AssemblyInfo.cs
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\RedisCore\obj\Debug\net5.0\RedisCore.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\RedisCore\obj\Debug\net5.0\RedisCore.dll
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\RedisCore\obj\Debug\net5.0\refint\RedisCore.dll
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\RedisCore\obj\Debug\net5.0\RedisCore.pdb
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\RedisCore\obj\Debug\net5.0\ref\RedisCore.dll

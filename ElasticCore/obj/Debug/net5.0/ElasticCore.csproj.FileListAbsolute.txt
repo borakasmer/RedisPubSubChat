@@ -1,0 +1,12 @@
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\ElasticCore\bin\Debug\net5.0\ElasticCore.deps.json
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\ElasticCore\bin\Debug\net5.0\ElasticCore.dll
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\ElasticCore\bin\Debug\net5.0\ElasticCore.pdb
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\ElasticCore\obj\Debug\net5.0\ElasticCore.csproj.AssemblyReference.cache
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\ElasticCore\obj\Debug\net5.0\ElasticCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\ElasticCore\obj\Debug\net5.0\ElasticCore.AssemblyInfoInputs.cache
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\ElasticCore\obj\Debug\net5.0\ElasticCore.AssemblyInfo.cs
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\ElasticCore\obj\Debug\net5.0\ElasticCore.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\ElasticCore\obj\Debug\net5.0\ElasticCore.dll
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\ElasticCore\obj\Debug\net5.0\refint\ElasticCore.dll
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\ElasticCore\obj\Debug\net5.0\ElasticCore.pdb
+C:\Users\Bora Kasmer\source\repos\RedisPubSubChat\ElasticCore\obj\Debug\net5.0\ref\ElasticCore.dll
